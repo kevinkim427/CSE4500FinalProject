@@ -15,7 +15,7 @@ The following **required** features are completed:
 
 The Following are screenshots of each member's websites
 
-<img src="./images/Website_A.png" title='screenshot 1' width='' alt='ss1' />
-<img src="./images/Website_B.png" title='screenshot 1' width='' alt='ss1' />
-<img src="./images/Website_C.png" title='screenshot 1' width='' alt='ss1' />
-<img src="./images/Website_D.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/Website A.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/Website B.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/Website C.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/Website D.png" title='screenshot 1' width='' alt='ss1' />
