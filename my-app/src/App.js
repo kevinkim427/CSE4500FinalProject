@@ -25,9 +25,27 @@ function App()
           <div id="schools">
             <div id="names">
                 <ol>
-                    <li>Covina Highschool</li>
-                    <li>Mt.SAC</li>
-                    <li>CSUSB</li>
+                    <li><a
+                    className="App-link"
+                    href="https://www.c-vusd.org/domain/21"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <button>Covina Highschool</button>
+                    </a></li>
+                    <li><a
+                    className="App-link"
+                    href="https://www.mtsac.edu/"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <button>Mt.SAC</button>
+                    </a></li>
+                    <li><a
+                    className="App-link"
+                    href="https://www.csusb.edu/"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <button>CSUSB</button>
+                    </a></li>                    
                 </ol>
             </div>
             <div id="logos">                
@@ -51,12 +69,48 @@ function App()
                 <div id="games">
                     <div id="names">
                         <ul>
-                            <li>The Witcher 3</li>
-                            <li>Kingdom Come Deliverance</li>
-                            <li>Baldurs Gate 3</li>
-                            <li>For Honor</li>
-                            <li>League of Legends</li>
-                            <li>Civilization 6</li>
+                            <li><a
+                            className="App-link"
+                            href="https://www.youtube.com/watch?v=XHrskkHf958"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <button>The Witcher 3</button>
+                            </a></li>
+                            <li><a
+                            className="App-link"
+                            href="https://www.youtube.com/watch?v=mu6gjKMhT3Y"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <button>Kingdom Come Deliverance</button>
+                            </a></li>
+                            <li><a
+                            className="App-link"
+                            href="https://www.youtube.com/watch?v=OcP0WdH7rTs"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <button>Baldurs Gate 3</button>
+                            </a></li>
+                            <li><a
+                            className="App-link"
+                            href="https://www.youtube.com/watch?v=zFUymXnQ5z8"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <button>For Honor</button>
+                            </a></li>
+                            <li><a
+                            className="App-link"
+                            href="https://www.youtube.com/watch?v=fmI_Ndrxy14"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <button>League of Legends</button>
+                            </a></li>
+                            <li><a
+                            className="App-link"
+                            href="https://www.youtube.com/watch?v=5KdE0p2joJw"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <button>Civilization 6</button>
+                            </a></li>
                         </ul>
                     </div>
                 <div id="covers">
@@ -88,16 +142,44 @@ function App()
         </section>
         <section className="repo">
             <div className="hbox">
-                <h1>My Github Repository</h1>
+                <h1>Github Repository</h1>
             </div>          
             <div className="box">   
-                <p>This is a button that links to my Github Repository for the CSE4500 course at CSUSB</p>
+                <p>Here are buttons that links to the Github Repositories for each member of Group 3 for the CSE4500 course at CSUSB</p>
                 <a
                 className="App-link"
                 href="https://github.com/BWilkening/CSE-4500-classwork"
                 target="_blank"
                 rel="noopener noreferrer">
-                <button>My Repo</button>
+                <button>Billy Wilkening</button>
+                </a>
+                <a
+                className="App-link"
+                href="https://github.com/kevinkim427/Platform_Computing"
+                target="_blank"
+                rel="noopener noreferrer">
+                <button>Kevin Kim</button>
+                </a>
+                <a
+                className="App-link"
+                href="https://github.com/lopezalejandro23/Platform-Computing"
+                target="_blank"
+                rel="noopener noreferrer">
+                <button>Alejandro Lopez</button>
+                </a>
+                <a
+                className="App-link"
+                href="https://github.com/BWilkening/CSE-4500-classwork"
+                target="_blank"
+                rel="noopener noreferrer">
+                <button>Juan Trujillo</button>
+                </a>
+                <a
+                className="App-link"
+                href="https://github.com/kevinkim427/CSE4500FinalProject"
+                target="_blank"
+                rel="noopener noreferrer">
+                <button>Final Project</button>
                 </a>
             </div> 
         </section>
