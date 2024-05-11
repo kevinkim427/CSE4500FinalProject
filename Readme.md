@@ -2,7 +2,7 @@
 
 This repo will contain the files for Group 3's Final Project for CSE4500 course.
 
-Time spent: 4 hours spent in total
+Time spent: 17 hours spent in total
 
 ## Features
 
